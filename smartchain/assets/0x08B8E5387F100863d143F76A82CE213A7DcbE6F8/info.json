@@ -1,0 +1,11 @@
+{
+    "name": "EgonSwapToken",
+    "type": "BEP20",
+    "symbol": "EGON",
+    "decimals": 18,
+    "website": "https://www.egonswap.io/",
+    "description": "EgonSwap is Decentralized DEX Token and it's Community Driven Protocol.",
+    "explorer": "https://bscscan.com/token/0x08B8E5387F100863d143F76A82CE213A7DcbE6F8",
+    "status": "active",
+    "id": "0x08B8E5387F100863d143F76A82CE213A7DcbE6F8"
+}

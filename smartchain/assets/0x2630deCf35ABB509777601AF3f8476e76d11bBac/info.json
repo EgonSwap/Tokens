@@ -1,0 +1,11 @@
+{
+    "name": "EagleNetwork",
+    "type": "BEP20",
+    "symbol": "EAN",
+    "decimals": 9,
+    "website": "https://www.eaglenetwork.app/",
+    "description": "Eagle Network is a community Oriented networking Token.",
+    "explorer": "https://bscscan.com/address/0x2630decf35abb509777601af3f8476e76d11bbac",
+    "status": "active",
+    "id": "0x2630deCf35ABB509777601AF3f8476e76d11bBac"
+}
