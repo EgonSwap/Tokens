@@ -1,0 +1,22 @@
+{
+    "name": "EgonSwap (EGON)",
+    "website": "https://egonswap.app/",
+    "description": "EGON Finance is a powerful DeFi ecosystem and Decentralized Exchange on Binance Smart Chain that wants to revolutionize the DeFi sector on BSC by providing all in one solution for everyone.",
+    "research": "https://docs.egonswap.io/",
+    "explorer": "https://bscscan.com/token/0x8669cd3841029cdaa5aed2880bbc24fb1fe6d296",
+    "type": "BEP20",
+    "symbol": "EGON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8669CD3841029CdAa5AeD2880bbc24fb1FE6d296",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/EagleNetworkApp"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/EagleNetworkApp"
+        }
+    ]
+}
