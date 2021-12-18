@@ -1,22 +1,11 @@
 {
-    "name": "Eagle Network (EAN)",
-    "website": "https://eaglenetwork.app/",
-    "description": "EAN Finance is a powerful DeFi ecosystem on Binance Smart Chain that wants to revolutionize the DeFi sector on BSC by providing all in one solution for everyone.",
-    "research": "https://docs.egonswap.io/",
-    "explorer": "https://bscscan.com/token/0xf711D680DD3e987B6bd24253931E5495C954b557",
+    "name": "EagleNetwork Token",
     "type": "BEP20",
     "symbol": "EAN",
     "decimals": 9,
+    "website": "https://www.eagleNetwork.app/",
+    "description": "EAN Finance is a powerful DeFi ecosystem on Binance Smart Chain that wants to revolutionize the DeFi sector on BSC by providing all in one solution for everyone.",
+    "explorer": "https://bscscan.com/token/0xf711D680DD3e987B6bd24253931E5495C954b557",
     "status": "active",
-    "id": "0xf711D680DD3e987B6bd24253931E5495C954b557",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/EagleNetworkApp"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/EagleNetworkApp"
-        }
-    ]
+    "id": "0xf711D680DD3e987B6bd24253931E5495C954b557"
 }
