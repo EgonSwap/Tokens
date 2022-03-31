@@ -1,0 +1,11 @@
+{
+    "name": "Macaucasinolisboa",
+    "type": "BEP20",
+    "symbol": "MCL",
+    "decimals": 18,
+    "website": "https://macaucasinolisboa.xyz",
+    "description": "MCL - Token dedicated to virtual game expansion.",
+    "explorer": "https://bscscan.com/token/0xfE4EB925914Bf72f6FC19b98B359E246ac3DF132",
+    "status": "abandoned",
+    "id": "0xfE4EB925914Bf72f6FC19b98B359E246ac3DF132"
+}
